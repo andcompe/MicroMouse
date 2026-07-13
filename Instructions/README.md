@@ -9,6 +9,7 @@ Några tips innan du börjar
       <li>Cyanoakrylat är i princip inte farligt, men kan vara jobbigt att få bort. Här är länk till <a href="https://giftinformation.se/kemikalieregister/cyanoakrylatlim/">Giftinformationcentralen</a>, läs den innan något händer. 
       <li>Det fäster otroligt bra på plasten, men även på fingrar och en hel del annat. Använd bara LITE lim, det blir bara kladdigt med för mycket. Och man får det på fingrarna och sen fastnar fingrarna i plasten och du får kvar fula           fläckar. Så använd bara liiite lim.</li>
       <li>Om du får lim på fingrarna, torka bort med papper så fort som möjligt. Det du inte får bort kommer torka fort och därefter är det enklast med mekanisk nötning för att få bort det. Sandpapper fungerar bra även till limmet på            fingrarna.</li>
+      <li>Cyanoakrylat kan reagera med vissa textilier, ex bomull, och kan då utveckla värme som kan leda till brännskador. Akta kläderna. </li>
     </ul>  
 </ul>
 
