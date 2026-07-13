@@ -1,28 +1,7 @@
-<html>
-  <head>
-    <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; color:#222; }
-    .container { max-width: 980px; margin: 18px auto; padding: 12px; }
-    h1 { font-size: 1.6rem; margin-bottom: 8px; }
-    table.gallery { width: 100%; border-collapse: collapse; }
-    table.gallery td { vertical-align: top; padding: 12px 8px; border-bottom: 1px solid #eee; }
-    table.gallery td:first-child { width: 18%; }
-    table.gallery img { max-width: 100%; height: auto; border: 1px solid #ddd; box-shadow: 0 1px 0 rgba(0,0,0,0.03); }
-    .caption { color:#666; font-size:0.9rem; }
-    </style>
-  </head>
-<body>
-
-
-
-<div class="container">
 
 <h1>Instruktioner MicroMouse</h1>
 
-<table class="gallery">
-  <thead>
-    <tr><th></th><th>Bild</th></tr>
-  </thead>
+<table class="gallery" style="border: 0px">
   <tbody>
   
   <tr><td></td><td><img src="Images/20260703_084615.jpg" alt="20260703_084615.jpg"><div class="caption">20260703_084615.jpg</div></td></tr>
