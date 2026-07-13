@@ -98,24 +98,52 @@ Några tips innan du börjar
   <tr><td>
       När axeln fått kugghjul på plats och sitter i fästet så ska hjulen monteras. Placera hjulen med hålet uppåt och droppa lite lim i hålet. Använd gärna tandpetare. INTE för mycket lim, bara en liten droppe. Smeta gärna runt limmet lite i botten på hålet. <br><br>
       Varning: Om du använder för mycket lim här kommer hjulet, axeln och axelfästet att limmas ihop och bakaxeln kan inte snurra. Då kan inte droiden åka. Ta hellre för lite lim än för mycket, då går det att göra om. <br><br>
-      Tryck sedan försiktigt i axeln mot hjulet och se till att det hamnar rakt. Lyft upp och snurra på hjulet. Det ska inte synas något kladdigt lim mellan axeln och axelfästet. Om det gör det, se om det går att torka bort med papper. Om inte, snurra på axeln hela tiden tills limmet har stelnat. <br><br>
-      Upprepa med andra hjulet så det blir som på bilden.
+      Tryck sedan försiktigt i axeln mot hjulet och se till att det hamnar rakt. Lyft upp och snurra på hjulet. Det ska inte synas något kladdigt lim mellan axeln och axelfästet. Om det gör det, se om det går att torka bort med papper. Om inte, snurra på axeln hela tiden tills limmet har stelnat.      
   </td><td><img src="Images/20260704_110738.jpg" alt="20260704_110738.jpg"><div class="caption">20260704_110738.jpg</div></td></tr>
   
-  <tr><td></td><td><img src="Images/20260704_110913.jpg" alt="20260704_110913.jpg"><div class="caption">20260704_110913.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_110918.jpg" alt="20260704_110918.jpg"><div class="caption">20260704_110918.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_110953.jpg" alt="20260704_110953.jpg"><div class="caption">20260704_110953.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_110957.jpg" alt="20260704_110957.jpg"><div class="caption">20260704_110957.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_111024.jpg" alt="20260704_111024.jpg"><div class="caption">20260704_111024.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_111132.jpg" alt="20260704_111132.jpg"><div class="caption">20260704_111132.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_111200.jpg" alt="20260704_111200.jpg"><div class="caption">20260704_111200.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_111357.jpg" alt="20260704_111357.jpg"><div class="caption">20260704_111357.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_111359.jpg" alt="20260704_111359.jpg"><div class="caption">20260704_111359.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_111457.jpg" alt="20260704_111457.jpg"><div class="caption">20260704_111457.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_111518.jpg" alt="20260704_111518.jpg"><div class="caption">20260704_111518.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_111619.jpg" alt="20260704_111619.jpg"><div class="caption">20260704_111619.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_111631.jpg" alt="20260704_111631.jpg"><div class="caption">20260704_111631.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_111753.jpg" alt="20260704_111753.jpg"><div class="caption">20260704_111753.jpg</div></td></tr>
+  <tr><td>
+      Upprepa med andra hjulet så det blir som på bilden.
+  </td><td><img src="Images/20260704_110918.jpg" alt="20260704_110918.jpg"><div class="caption">20260704_110918.jpg</div></td></tr>
+  
+  <tr><td>
+      Nu ska bakaxeln monteras på bottenplattan. Trä i bakaxelfästet i bottenplattan så att de två flikarna går igenom de smala springorna. Kontrollera så att kugghjulet sitter på rätt sida, dvs mitt under det stora hålet i plattan.
+  </td><td><img src="Images/20260704_110957.jpg" alt="20260704_110957.jpg"><div class="caption">20260704_110957.jpg</div></td></tr>
+  
+  <tr><td>
+      Vik försiktigt flikarna UTÅT som bilden visar. 
+  </td><td><img src="Images/20260704_111024.jpg" alt="20260704_111024.jpg"><div class="caption">20260704_111024.jpg</div></td></tr>
+  
+  <tr><td>
+      Droppa lite lim under flikarna, en i taget, och tryck ned fliken mot plattan. Använd en tandpetare för att lägga dit limmet om det är lättare att komma åt. Resultatet ska bli som på bilden och hjulaxelfästet sitter nu stadigt i bottenplattan.
+  </td><td><img src="Images/20260704_111132.jpg" alt="20260704_111132.jpg"><div class="caption">20260704_111132.jpg</div></td></tr>
+  
+  <tr><td>
+      Vi fortsätter med batterihållarna. Placera dem med glatta sidan upp som bilden visar. Vik försiktigt i alla veck utom limflikarna. Dessa viker vi efteråt.      
+  </td><td><img src="Images/20260704_111200.jpg" alt="20260704_111200.jpg"><div class="caption">20260704_111200.jpg</div></td></tr>
+  
+  <tr><td>
+      Var noga med ändarna så det blir som bilden visar. Den lilla stödkanten på båda sidor är till för att hålla i batterikontakten och det ska vara en liten springa emellan på båda sidor.
+  </td><td><img src="Images/20260704_111357.jpg" alt="20260704_111357.jpg"><div class="caption">20260704_111357.jpg</div></td></tr>
+  
+  <tr><td>
+      Denna är korrekt vikt. Där är 3 limflikar i mitten som ska vikas ned innan limning. De två som sammanfogar kanten viks efteråt.
+  </td><td><img src="Images/20260704_111457.jpg" alt="20260704_111457.jpg"><div class="caption">20260704_111457.jpg</div></td></tr>
+  
+  <tr><td>
+      Droppa lim på de 3 vikta limflikarna som bilden visar. 
+  </td><td><img src="Images/20260704_111518.jpg" alt="20260704_111518.jpg"><div class="caption">20260704_111518.jpg</div></td></tr>
+  
+  <tr><td>
+      Sätt dit batterihållaren som bilden visar. De två ovikta lim-flikarna ska gå igenom bottenplattan. Där finns även stödhörn på bottenplattan som styrning för batterihållaren.
+      Tryck ned ordentligt så de tre limmade flikarna viks ner och fäster mot bottenplattan. Håll tills det fastnat.
+  </td><td><img src="Images/20260704_111619.jpg" alt="20260704_111619.jpg"><div class="caption">20260704_111619.jpg</div></td></tr>
+  
+  <tr><td>
+      På undersidan viks de två limflikarna och limmas fast mot bottenplattan. <br><br>
+      Upprepa med andra batterifästet.
+  </td><td><img src="Images/20260704_111753.jpg" alt="20260704_111753.jpg"><div class="caption">20260704_111753.jpg</div></td></tr>
+
+  
   <tr><td></td><td><img src="Images/20260704_112206.jpg" alt="20260704_112206.jpg"><div class="caption">20260704_112206.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_112221.jpg" alt="20260704_112221.jpg"><div class="caption">20260704_112221.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_112245.jpg" alt="20260704_112245.jpg"><div class="caption">20260704_112245.jpg</div></td></tr>
