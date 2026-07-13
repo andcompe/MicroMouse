@@ -164,18 +164,46 @@ Några tips innan du börjar
   <tr><td>
       Upprepa med det andra hjulet så att framaxeln ser ut ungefär så här.
   </td><td><img src="Images/20260704_112342.jpg" alt="20260704_112342.jpg"><div class="caption">20260704_112342.jpg</div></td></tr>
+
+  <tr><td>
+      För att driva och styra används enkla servon. Dessa är packade i en liten påse var och märkta med 180 eller 360. Notera att de ser exakt lika ut så packa bara upp ett i taget. De fungerar olika.
+  </td><td><img src="Images/20260704_112527.jpg" alt="20260704_112527.jpg"><div class="caption">20260704_112527.jpg</div></td></tr>
   
-  <tr><td></td><td><img src="Images/20260704_112527.jpg" alt="20260704_112527.jpg"><div class="caption">20260704_112527.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_112719.jpg" alt="20260704_112719.jpg"><div class="caption">20260704_112719.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_112940.jpg" alt="20260704_112940.jpg"><div class="caption">20260704_112940.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_112944.jpg" alt="20260704_112944.jpg"><div class="caption">20260704_112944.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_112958.jpg" alt="20260704_112958.jpg"><div class="caption">20260704_112958.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_113003.jpg" alt="20260704_113003.jpg"><div class="caption">20260704_113003.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_113023.jpg" alt="20260704_113023.jpg"><div class="caption">20260704_113023.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_113110.jpg" alt="20260704_113110.jpg"><div class="caption">20260704_113110.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_113145.jpg" alt="20260704_113145.jpg"><div class="caption">20260704_113145.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_113154.jpg" alt="20260704_113154.jpg"><div class="caption">20260704_113154.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_113205.jpg" alt="20260704_113205.jpg"><div class="caption">20260704_113205.jpg</div></td></tr>
+  <tr><td>
+      Ta fram servot märkt 360 samt övriga delar på bilden. Där finns en lite påse med tillbehör till servot, men du behöver bara en lång skruv från den påsen.    
+  </td><td><img src="Images/20260704_112719.jpg" alt="20260704_112719.jpg"><div class="caption">20260704_112719.jpg</div></td></tr>
+  
+  <tr><td>
+      Kugghjulet ska monteras på servot. Om det sitter skräp i hålet på kugghjulet kan man rensa det med en liten skruvmejsel. Tryck därefter på kugghjulet på servots axel. Det kan gå ganska trögt så man kan behöva ta i lite här.<br>
+      Kontrollera att kugghjulet sitter rakt.
+  </td><td><img src="Images/20260704_112940.jpg" alt="20260704_112940.jpg"><div class="caption">20260704_112940.jpg</div></td></tr>
+  
+  <tr><td>
+      Skruva i skruven i mitten på kugghjulet.
+  </td><td><img src="Images/20260704_112944.jpg" alt="20260704_112944.jpg"><div class="caption">20260704_112944.jpg</div></td></tr>
+  
+  <tr><td>
+      Vik sladden runt bakänden på servot som bilden visar. 
+  </td><td><img src="Images/20260704_113003.jpg" alt="20260704_113003.jpg"><div class="caption">20260704_113003.jpg</div></td></tr>
+  
+  <tr><td>
+      Sätt i servot så att kugghjulen går ihop till bakaxeln. Servot ska sitta helt emot bottenplattan.
+  </td><td><img src="Images/20260704_113023.jpg" alt="20260704_113023.jpg"><div class="caption">20260704_113023.jpg</div></td></tr>
+  
+  <tr><td>
+      Vik ihop fästet så att piggarna hamnar på utsidan. Lyft lite på servot och lirka i ena sidan på fästet så taggen fäster i bottenplattan.<br>
+      Vik sedan över fästet runt servot.      
+  </td><td><img src="Images/20260704_113110.jpg" alt="20260704_113110.jpg"><div class="caption">20260704_113110.jpg</div></td></tr>
+  <tr><td>
+      Det kan vara svårt att få fästet att gå igenom bottenplattan, det är gjort lite tajt för att det ska sitta fast bra. Använd en liten skruvmejsel och tryck försiktigt igenom andra sidan på fästet så att det låser i bottenplattan.
+  </td><td><img src="Images/20260704_113145.jpg" alt="20260704_113145.jpg"><div class="caption">20260704_113145.jpg</div></td></tr>
+  
+  <tr><td>
+      Servot ska nu sitta fast stadigt i bottenplattan. Båda snäppen ska ha gått igenom så att de låst fast ordentligt.
+  </td><td><img src="Images/20260704_113205.jpg" alt="20260704_113205.jpg"><div class="caption">20260704_113205.jpg</div></td></tr>
+
+
+  
   <tr><td></td><td><img src="Images/20260704_113259.jpg" alt="20260704_113259.jpg"><div class="caption">20260704_113259.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_113335.jpg" alt="20260704_113335.jpg"><div class="caption">20260704_113335.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_113655.jpg" alt="20260704_113655.jpg"><div class="caption">20260704_113655.jpg</div></td></tr>
