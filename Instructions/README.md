@@ -144,11 +144,27 @@ Några tips innan du börjar
   </td><td><img src="Images/20260704_111753.jpg" alt="20260704_111753.jpg"><div class="caption">20260704_111753.jpg</div></td></tr>
 
   
-  <tr><td></td><td><img src="Images/20260704_112206.jpg" alt="20260704_112206.jpg"><div class="caption">20260704_112206.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_112221.jpg" alt="20260704_112221.jpg"><div class="caption">20260704_112221.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_112245.jpg" alt="20260704_112245.jpg"><div class="caption">20260704_112245.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_112308.jpg" alt="20260704_112308.jpg"><div class="caption">20260704_112308.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_112342.jpg" alt="20260704_112342.jpg"><div class="caption">20260704_112342.jpg</div></td></tr>
+  <tr><td>
+      Nu är det dags för styrningen/framaxeln. Ta fram dessa delar.
+  </td><td><img src="Images/20260704_112206.jpg" alt="20260704_112206.jpg"><div class="caption">20260704_112206.jpg</div></td></tr>
+  
+  <tr><td>
+      Använd en tandpetare och applicera LITE lim i det fyrkantiga hålet i mitten navet. Samma sak här, om du tar för mycket lim kommer inte hjulet att snurra och droiden kan inte åka. Inget lim ska pysa ut när vi trycker ihop den med axeln. Så ta hellre för lite än för mycket.
+  </td><td><img src="Images/20260704_112221.jpg" alt="20260704_112221.jpg"><div class="caption">20260704_112221.jpg</div></td></tr>
+  
+  <tr><td>
+      Lägg dit "däcket" så att det passar ihop med navet och bildar en nästan plan yta. Om däcket sticker upp har du vänt det fel.
+  </td><td><img src="Images/20260704_112245.jpg" alt="20260704_112245.jpg"><div class="caption">20260704_112245.jpg</div></td></tr>
+  
+  <tr><td>
+      Tryck försiktigt dit axeln i det fyrkantiga hålet. Se till att inget lim pyser ut på någon sida. Om det gör det tar du isär delarna direkt, torkar bort allt lim som kommit ut och trycker ihop igen. Upprepa tills inget lim kommer ut när du trycker i axeln. <br><br>
+      Viktigt! Om det kommer lim mellan navet och däcket måste det tas bort INNAN man limmar dit axeln. Annars kommer de fastna ihop och då kan inte däcket rotera.
+  </td><td><img src="Images/20260704_112308.jpg" alt="20260704_112308.jpg"><div class="caption">20260704_112308.jpg</div></td></tr>
+  
+  <tr><td>
+      Upprepa med det andra hjulet så att framaxeln ser ut ungefär så här.
+  </td><td><img src="Images/20260704_112342.jpg" alt="20260704_112342.jpg"><div class="caption">20260704_112342.jpg</div></td></tr>
+  
   <tr><td></td><td><img src="Images/20260704_112527.jpg" alt="20260704_112527.jpg"><div class="caption">20260704_112527.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_112719.jpg" alt="20260704_112719.jpg"><div class="caption">20260704_112719.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_112940.jpg" alt="20260704_112940.jpg"><div class="caption">20260704_112940.jpg</div></td></tr>
