@@ -1,0 +1,3 @@
+nvs,      data, nvs,     0x9000,    0x6000,
+factory,  app, factory,  0x10000,   3M,
+spiffs,   data, spiffs,  0x310000,  960K,

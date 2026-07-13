@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, max-age=0">
+  <title>MOUSE Controller</title>
+  <style>
+    html,body { 
+        height:100%; 
+        margin: 0 ;
+        padding: 0 ;
+        overflow: hidden;
+    }
+    body {
+         margin:0;
+         position: relative;
+         justify-content:center;
+          align-items:center;
+           background:#111; 
+        }
+
+    #divinfo { position:absolute; bottom:0; left:0; right:0; background:#222; color:#0f0; font-family:monospace; font-size:0.75rem; padding:8px; max-height:30%; overflow:auto; }
+
+    #maindiv {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 20%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 10;
+        color: white;
+        font-size: 2rem;
+        font-family: sans-serif;
+    }
+
+    #gameover {
+        font-size: 1rem;
+        font-family: sans-serif;
+        color: white;
+        display: none;
+        position: relative;
+        top: 20%;
+        left: 0;
+        width: 100%;
+        height: 80%;
+        align-items: center;
+        justify-content: center;
+        z-index: 10;
+        text-align: center;
+    }
+    #gameover h1 {
+        font-size: 2rem;
+        font-family: sans-serif;
+    }
+
+    #controls {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: 80%;
+      width: 100%;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: flex-end;
+      pointer-events: none;
+      font-size:2.5rem;
+      color:#fff;
+    }
+    #hcontrol {
+      position: relative; 
+      width: 40%;
+      height: 100%;
+      background: rgba(255,255,255,0.05);
+      display: flex;
+      align-items: center;
+      justify-content: space-between; 
+      touch-action: none;
+      -webkit-tap-highlight-color: transparent;
+      pointer-events: auto;
+      margin-left: 0;
+    }
+    #hcontrol-gradient {
+    position: absolute;
+    top: calc(50% - 100px); left: 0; right: 0; bottom: 0;
+    z-index: 0;
+    width: 100%; height: 200px;
+    background: linear-gradient(to right, 
+        #1111ee 0%,
+        #111177 20%, 
+        #000044 40%, 
+        #000000 50%,    
+        #000044 60%, 
+        #111177 80%, 
+        #1111ee 100%);
+    pointer-events: none;
+    /* transition: clip-path 0.1s; */
+    clip-path: inset(0 50% 0 50%);
+    }    
+    #vcontrol {
+      position: relative; 
+      width: 40%;
+      height: 100%;
+      background: rgba(255,255,255,0.05);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column; 
+      touch-action: none;
+      -webkit-tap-highlight-color: transparent;
+      pointer-events: auto;
+      margin-right: 0;
+    }
+    #vcontrol-gradient {
+    position: absolute;
+    top: 0; left: calc(50% - 100px); right: 0; bottom: 0;
+    z-index: 0;
+    width: 200px; height: 100%;
+    background: linear-gradient(to top, 
+        #ff0000 0%,
+        #ffff00 20%, 
+        #00ff00 40%, 
+        #000000 50%,
+        #00ff00 60%, 
+        #ffff00 80%, 
+        #ff0000 100%);
+    pointer-events: none;
+    /*transition: clip-path 0.1s;*/
+    clip-path: inset(50% 0 50% 0);
+    }    
+    #leftctrl {
+      text-align: left;
+      padding: 15%;
+      position: relative;
+      z-index: 1;
+      background: none;
+    }
+    #rightctrl {
+      text-align: right;
+      padding: 15%;
+      position: relative;
+      z-index: 1;
+      background: none;
+    }
+    #upctrl {
+  align-self: center;          /* Optional: center horizontally */
+  margin-top: 0;               /* Remove extra margin if any */
+  padding: 15%;
+      z-index: 1;
+      background: none;  
+}
+#downctrl {
+  align-self: center;          /* Optional: center horizontally */
+  margin-bottom: 0;            /* Remove extra margin if any */
+  padding: 15%;
+        z-index: 1;
+      background: none;
+}
+  </style>
+ <script>
+    old_hvalue = 0;
+    old_vvalue = 0;
+    timerhandle = 0;
+
+    function httpGetAsync(theUrl, callback)
+    {
+        if (timerhandle==0)
+            timerhandle = setInterval(keepAlive,1000);
+        var xmlHttp = new XMLHttpRequest();
+        xmlHttp.onreadystatechange = function() { 
+            if (xmlHttp.readyState == 4)
+            {
+                if (xmlHttp.status == 200)
+                {
+                    if (callback)
+                        callback(xmlHttp.responseText); // callback on success
+                }
+                else if (xmlHttp.status == 418) // GAME OVER - I'm a teapot. :)
+                {
+                    document.getElementById("controls").style.display = 'none';
+                    document.getElementById("gameover").style.display = 'block';
+                    old_hvalue = 0;
+                    old_vvalue = 0;
+                    if (timerhandle!=0)
+                        clearInterval(timerhandle);
+                }
+            }
+        }
+        xmlHttp.open("GET", theUrl, true); // true for asynchronous 
+        xmlHttp.send(null);
+    }
+
+    // Safety: stop if page is hidden (user switches apps)
+    document.addEventListener('visibilitychange', () => {
+      if (document.hidden) fetch('/cmd?c=safe&a=up', params);
+    });
+
+    function pageLoaded()
+    {
+        httpGetAsync('/getname', function(response) {
+            document.title = response;
+            document.getElementById("maindiv").innerHTML = "<h1 style='color:#fff;font-family:monospace;'>" + response + "</h1>";
+        });
+        const hcontrol = document.getElementById('hcontrol');
+        const vcontrol = document.getElementById('vcontrol');
+
+        hcontrol.addEventListener("touchstart", function(e){ touch_event(e,'forward'); });
+        hcontrol.addEventListener("touchend",   function(e){ touch_event(e,'forward'); });
+        hcontrol.addEventListener("touchmove",  function(e){ touch_event(e,'forward'); });
+        hcontrol.addEventListener("touchcancel",  function(e){ touch_event(e,'forward'); });
+        hcontrol.addEventListener("mousedown",   function(e){ mouse_event(e,'forward'); });
+        hcontrol.addEventListener("mouseup",   function(e){ mouse_event(e,'forward'); });
+        hcontrol.addEventListener("mouseleave",   function(e){ mouse_event(e,'forward'); });
+        hcontrol.addEventListener("mousemove",   function(e){ mouse_event(e,'forward'); });
+
+        vcontrol.addEventListener("touchstart",function(e){ touch_event(e,'backward'); });
+        vcontrol.addEventListener("touchend",  function(e){ touch_event(e,'backward'); });
+        vcontrol.addEventListener("touchmove",  function(e){ touch_event(e,'backward'); });
+        vcontrol.addEventListener("touchcancel",  function(e){ touch_event(e,'backward'); });
+        vcontrol.addEventListener("mousedown",  function(e){ touch_event(e,'backward'); });
+        vcontrol.addEventListener("mouseup",  function(e){ mouse_event(e,'backward'); });
+        vcontrol.addEventListener("mouseleave",  function(e){ mouse_event(e,'backward'); });
+        vcontrol.addEventListener("mousemove",  function(e){ mouse_event(e,'backward'); });
+
+    }
+
+    function keepAlive()
+    {
+        // As long as there are touches, repeat speed message every second.
+        httpGetAsync('/update?x=' + old_hvalue + '&y=' + old_vvalue, null);
+    }
+    
+    function mouse_event(e,source)
+    {
+        e.preventDefault();
+        result = "";
+        hvalue =0;
+        vvalue =0;
+
+
+        // CHECK HCONTROL
+        const rect = hcontrol.getBoundingClientRect();
+        if (e.clientX >= rect.left && e.clientX <= rect.right &&
+            e.clientY >= rect.top && e.clientY <= rect.bottom) 
+        {
+            if ((e.type == "mousemove" || e.type == "mousedown") && e.buttons==1)
+            {
+                const x = e.clientX - rect.left;
+                const percent = x / rect.width;
+                // Map percent (0..1) to value (-100..100)
+                hvalue = Math.round((percent - 0.5) * 200);
+            }
+            setHControlGradient(hvalue);
+        }
+
+        // CHECK VCONTROL
+        const rectv = vcontrol.getBoundingClientRect();
+        if (e.clientX >= rectv.left && e.clientX <= rectv.right &&
+            e.clientY >= rectv.top && e.clientY <= rectv.bottom) 
+        {
+            if ((e.type == "mousemove" || e.type == "mousedown") && e.buttons==1)
+            {
+                const y = e.clientY - rectv.top;
+                const percent = y / rectv.height;
+                // Map percent (0..1) to value (-10..10), inverted for vertical
+                vvalue = Math.round((0.5 - percent) * 20);
+            }
+            setVControlGradient(vvalue);
+        }
+        if (hvalue != old_hvalue || vvalue != old_vvalue) 
+        {
+            old_hvalue = hvalue;
+            old_vvalue = vvalue;
+            result += "H: " + hvalue + " V: " + vvalue + "<br>\n";
+            // Send command to server
+            httpGetAsync('/update?x=' + hvalue + '&y=' + vvalue, null);
+        }
+    }
+
+    function touch_event(e,source)
+    {
+        e.preventDefault();
+        const recth = hcontrol.getBoundingClientRect();
+        const rectv = vcontrol.getBoundingClientRect();
+        result = "";
+        hvalue =0;
+        vvalue =0;
+
+        if ((e.type == "touchend" || e.type == "touchcancel"))
+        {
+            for (i=0;i<e.changedTouches.length;i++)
+            {
+                if (e.changedTouches[i].target == hcontrol || hcontrol.contains(e.changedTouches[i].target)) 
+                {
+                    hvalue = 0;
+                    setHControlGradient(hvalue);
+                }
+                if (e.changedTouches[i].target == vcontrol || vcontrol.contains(e.changedTouches[i].target)) 
+                {
+                    vvalue = 0;
+                    setVControlGradient(vvalue);
+                }
+
+                if (e.changedTouches[i].clientX >= recth.left && e.changedTouches[i].clientX <= recth.right &&
+                    e.changedTouches[i].clientY >= recth.top && e.changedTouches[i].clientY <= recth.bottom) 
+                {
+                    hvalue = 0;
+                    setHControlGradient(hvalue);
+                }
+                if (e.changedTouches[i].clientX >= rectv.left && e.changedTouches[i].clientX <= rectv.right &&
+                    e.changedTouches[i].clientY >= rectv.top && e.changedTouches[i].clientY <= rectv.bottom) 
+                {
+                    vvalue = 0;
+                    setVControlGradient(vvalue);
+                }                
+            }
+        }
+
+        if ((e.type == "touchstart" || e.type == "touchmove"))
+        {
+            for (i=0;i<e.touches.length;i++)
+            {
+                // CHECK HCONTROL                
+                if (e.touches[i].clientX >= recth.left && e.touches[i].clientX <= recth.right &&
+                    e.touches[i].clientY >= recth.top && e.touches[i].clientY <= recth.bottom) 
+                {
+                    const x = e.touches[i].clientX - recth.left;
+                    const percent = x / recth.width;
+                    // Map percent (0..1) to value (-100..100)
+                    hvalue = Math.round((percent - 0.5) * 200);
+                    setHControlGradient(hvalue);
+                }
+
+                // CHECK VCONTROL
+                
+                if (e.touches[i].clientX >= rectv.left && e.touches[i].clientX <= rectv.right &&
+                    e.touches[i].clientY >= rectv.top && e.touches[i].clientY <= rectv.bottom) 
+                {
+                    const y = e.touches[i].clientY - rectv.top;
+                    const percent = y / rectv.height;
+                    // Map percent (0..1) to value (-10..10), inverted for vertical
+                    vvalue = Math.round((0.5 - percent) * 20);
+                    setVControlGradient(vvalue);
+                }   
+            }
+        }
+        if (hvalue != old_hvalue || vvalue != old_vvalue) 
+        {
+            old_hvalue = hvalue;
+            old_vvalue = vvalue;
+            result += "H: " + hvalue + " V: " + vvalue + "<br>\n";
+            // Send command to server
+            httpGetAsync('/update?x=' + hvalue + '&y=' + vvalue, null);
+        }
+    }
+
+    function setHControlGradient(value) 
+    {
+        // Clamp value between -10 and 10
+        value = Math.max(-100, Math.min(100, value));
+
+        const grad = document.getElementById('hcontrol-gradient');
+        if (!grad) return;
+
+        let clipLeft, clipRight;
+        if (value === 0) {
+            // Hide all
+            grad.style.clipPath = 'inset(0 50% 0 50%)';
+        } else if (value > 0) {
+            // Show right side: left is hidden, right is visible
+            clipLeft = 50 * (1 - value / 100); // 0 (at 10), 45 (at 1)
+            grad.style.clipPath = `inset(0 ${clipLeft}% 0 50%)`;
+        } else {
+            // Show left side: right is hidden, left is visible
+            clipRight = 50 * (1 + value / 100); // 0 (at -10), 45 (at -1)
+            grad.style.clipPath = `inset(0 50% 0 ${clipRight}%)`;
+        }
+    }
+    function setVControlGradient(value) 
+    {
+        // Clamp value between -10 and 10
+        value = Math.max(-10, Math.min(10, value));
+
+        const grad = document.getElementById('vcontrol-gradient');
+        if (!grad) return;
+
+        let clipBottom, clipTop;
+        if (value === 0) {
+            // Hide all
+            grad.style.clipPath = 'inset(50% 0 50% 0)';
+        } else if (value > 0) {
+            // Show right side: left is hidden, right is visible
+            clipBottom = 50 * (1 - value / 10); // 0 (at 10), 45 (at 1)
+            grad.style.clipPath = `inset(${clipBottom}% 0 50% 0)`;
+        } else {
+            // Show left side: right is hidden, left is visible
+            clipTop = 50 * (1 + value / 10); // 0 (at -10), 45 (at -1)
+            grad.style.clipPath = `inset(50% 0 ${clipTop}% 0)`;
+        }
+    }
+ 
+  </script>  
+</head>
+<body onload="pageLoaded()">
+    <div id="maindiv">
+        Mouse
+    </div>
+    <div id="controls">
+        <div id="hcontrol">
+            <div id="hcontrol-gradient"></div>
+            <div id="leftctrl">◀</div>
+            <div id="rightctrl">▶</div>
+        </div>
+        <div id="vcontrol">
+            <div id="vcontrol-gradient"></div>
+            <div id="upctrl">▲</div>
+            <div id="downctrl">▼</div>
+        </div>
+    </div> 
+    <div id="gameover">
+        <h1>Spelet är slut</h1>
+        <div>
+        Lämna musen till nästa, tack.
+        </div>
+    </div>
+
+</body>
+</html>
