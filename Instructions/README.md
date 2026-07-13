@@ -4,12 +4,30 @@
 <table class="gallery" style="border: 0px">
   <tbody>
   
-  <tr><td></td><td><img src="Images/20260704_103326.jpg" alt="20260704_103326.jpg"><div class="caption">20260704_103326.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_103738.jpg" alt="20260704_103738.jpg"><div class="caption">20260704_103738.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_103849.jpg" alt="20260704_103849.jpg"><div class="caption">20260704_103849.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_103942.jpg" alt="20260704_103942.jpg"><div class="caption">20260704_103942.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_104022.jpg" alt="20260704_104022.jpg"><div class="caption">20260704_104022.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_104124.jpg" alt="20260704_104124.jpg"><div class="caption">20260704_104124.jpg</div></td></tr>
+  <tr><td>
+    Börja med att kontrollera så alla delar finns med. Saknar ni något så säger ni till.
+  </td><td><img src="Images/20260704_103326.jpg" alt="20260704_103326.jpg"><div class="caption">20260704_103326.jpg</div></td></tr>
+  
+  <tr><td>
+    Nu börjar monteringen. Först ska locket vikas ihop och limmas. <br><br>
+  </td><td><img src="Images/20260704_103738.jpg" alt="20260704_103738.jpg"><div class="caption">20260704_103738.jpg</div></td></tr>
+  
+  <tr><td>  
+    Placera locket med mönstret ned mot bordet. Börja med att vika yttre kanten (yttre strecket) på alla fyra sidor uppåẗ 90 grader. 
+  </td><td><img src="Images/20260704_103849.jpg" alt="20260704_103849.jpg"><div class="caption">20260704_103849.jpg</div></td></tr>
+  
+  <tr><td>
+    Därefter viker du i andra strecket nedåt i 90 grader. Vik även upp de små flikarna i ändarna 90 grader.
+  </td><td><img src="Images/20260704_103942.jpg" alt="20260704_103942.jpg"><div class="caption">20260704_103942.jpg</div></td></tr>
+
+  <tr><td>
+    Vik därefter upp de tunna lim-ytorna 90 grader.
+  </td><td><img src="Images/20260704_104022.jpg" alt="20260704_104022.jpg"><div class="caption">20260704_104022.jpg</div></td></tr>
+  
+  <tr><td>
+    Vik slutligen upp runt mittenrutan så att delarna möts. Justera så det stämmer bra inför limmningen.
+  </td><td><img src="Images/20260704_104124.jpg" alt="20260704_104124.jpg"><div class="caption">20260704_104124.jpg</div></td></tr>
+  
   <tr><td></td><td><img src="Images/20260704_104204.jpg" alt="20260704_104204.jpg"><div class="caption">20260704_104204.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_104329.jpg" alt="20260704_104329.jpg"><div class="caption">20260704_104329.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_104909.jpg" alt="20260704_104909.jpg"><div class="caption">20260704_104909.jpg</div></td></tr>
