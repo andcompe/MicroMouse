@@ -276,7 +276,7 @@ Några tips innan du börjar
   <tr><td>
       Tag fram din telefon och skanna QR-koden för att ansluta till det Wifi som din droid skapar. Alternativt, sök efter Wifi och anslut manuellt till det som anges på lappen.<br>
       Om telefonen frågar ifall du vill ansluta UTAN Internet så är det korrekt och det vill du. Dessa droider är inte anslutna till Imperiets nätverk.
-  </td><td><img src="Images/20260713_153250.jpg" alt="20260713_153250.jpg"></td></tr>
+  </td><td><img src="Images/20260713_153146.jpg" alt="20260713_153146.jpg"></td></tr>
   
   <tr><td>
       När du har anslutit till Wifi så skannar du koden för att öppna webb-sidan till din droid. Alternativt, surfa till <a href="http://192.168.4.1/mouse" target="_blank">http://192.168.4.1/mouse</a><br>
