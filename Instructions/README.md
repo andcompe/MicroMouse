@@ -218,7 +218,7 @@ Några tips innan du börjar
   
   <tr><td>
       När du fått dit fästet sitter servot stadigt. Notera på undersidan att båda snäppen har tagit ordentligt.
-  </td><td><img src="Images/20260704_113739.jpg" alt="20260704_113739.jpg"><div class="caption">20260704_113739.jpg</div></td></tr>
+  </td><td><img src="Images/20260713_170220.jpg" alt="20260713_170220.jpg"></td></tr>
 
   <tr><td>
       Innan vi kan fortsätta med styrningen måste vi rikta upp styrservot så det pekar rätt. För det behöver vi koppla in elektroniken.
