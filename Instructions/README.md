@@ -243,9 +243,23 @@ Några tips innan du börjar
   </td><td><img src="Images/bild_saknas.jpg"></td></tr>
   
  
-  <tr><td></td><td><img src="Images/20260704_113856.jpg" alt="20260704_113856.jpg"><div class="caption">20260704_113856.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_114104.jpg" alt="20260704_114104.jpg"><div class="caption">20260704_114104.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_114240.jpg" alt="20260704_114240.jpg"><div class="caption">20260704_114240.jpg</div></td></tr>
+  <tr><td>
+      Vänd droiden upp-och-ned. Tryck dit framaxeln på servot. <br>Var noga med att det är helt rakt, annars kommer den inte åka rakt. <br>Var noga med att inte vrida på servot när du monterar framaxeln. Om du gör det, sätt i batterierna igen så den vrider tillbaka sig och ta ur batterierna igen. På så sätt vet du att axeln blir rakt monterad.
+      När den sitter rakt, skruva i skruven för att låsa servot.
+  </td><td><img src="Images/bild_saknas.jpg"></td></tr>
+
+  <tr><td>
+      Slutligen ska vi montera fästena för locket. Ta fram de 3 fästena.
+  </td><td><img src="Images/20260704_113856.jpg" alt="20260704_113856.jpg"><div class="caption">20260704_113856.jpg</div></td></tr>
+  
+  <tr><td>
+      De två minsta fästena ska sitta baktill. Den stora platta ytan ska vara vänd mot bottenplattan. Provmontera utan lim för att se att det ser bra ut. Justera så den hamnar centrerat.
+  </td><td><img src="Images/20260704_114104.jpg" alt="20260704_114104.jpg"><div class="caption">20260704_114104.jpg</div></td></tr>
+  
+  <tr><td>
+     Lyft lite försiktigt på ena fästet och använd en tandpetare för att pilla in en droppe lim under. Se till att inget lim hamnar inuti fästet, för då fastnar bottenplattan där. Tryck ihop försiktigt igen så fästet fastnar i locket.     <br>Upprepa med andra fästet.
+  </td><td><img src="Images/20260704_114240.jpg" alt="20260704_114240.jpg"><div class="caption">20260704_114240.jpg</div></td></tr>
+  
   <tr><td></td><td><img src="Images/20260704_114309.jpg" alt="20260704_114309.jpg"><div class="caption">20260704_114309.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_114322.jpg" alt="20260704_114322.jpg"><div class="caption">20260704_114322.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_114340.jpg" alt="20260704_114340.jpg"><div class="caption">20260704_114340.jpg</div></td></tr>
