@@ -203,11 +203,46 @@ Några tips innan du börjar
   </td><td><img src="Images/20260704_113205.jpg" alt="20260704_113205.jpg"><div class="caption">20260704_113205.jpg</div></td></tr>
 
 
+  <tr><td>
+      Öppna nu servot märkt 180 samt ta fram delarna på bilden. 
+  </td><td><img src="Images/20260704_113259.jpg" alt="20260704_113259.jpg"><div class="caption">20260704_113259.jpg</div></td></tr>
   
-  <tr><td></td><td><img src="Images/20260704_113259.jpg" alt="20260704_113259.jpg"><div class="caption">20260704_113259.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_113335.jpg" alt="20260704_113335.jpg"><div class="caption">20260704_113335.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_113655.jpg" alt="20260704_113655.jpg"><div class="caption">20260704_113655.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_113739.jpg" alt="20260704_113739.jpg"><div class="caption">20260704_113739.jpg</div></td></tr>
+  <tr><td>
+      Vik ihop fästet så att taggarna hamnar på utsidan. Sätt i servot med sladden framåt. 
+  </td><td><img src="Images/20260704_113335.jpg" alt="20260704_113335.jpg"><div class="caption">20260704_113335.jpg</div></td></tr>
+  
+  <tr><td>
+      Lirka i ena sidan av fästet genom att lyfta servot lite, precis som med det bakre.<br>
+      Vik över fästet och använd skruvmejseln för att trycka igenom fästet på andra sidan servot. Denna kan vara ännu svårare då detta fäste är lite bredare, men det går. Håll emot bottenplattan, eller tryck lite uppåt på bottenplattan om det behövs. 
+  </td><td><img src="Images/20260704_113655.jpg" alt="20260704_113655.jpg"><div class="caption">20260704_113655.jpg</div></td></tr>
+  
+  <tr><td>
+      När du fått dit fästet sitter servot stadigt. Notera på undersidan att båda snäppen har tagit ordentligt.
+  </td><td><img src="Images/20260704_113739.jpg" alt="20260704_113739.jpg"><div class="caption">20260704_113739.jpg</div></td></tr>
+
+  <tr><td>
+      Innan vi kan fortsätta med styrningen måste vi rikta upp styrservot så det pekar rätt. För det behöver vi koppla in elektroniken.
+      <br><br>
+      Ta fram elektronikdelen. Denna ska monteras i mitten på bottenplattan och har två styrpinnar där den ska vara.
+  </td><td><img src="Images/bild_saknas.jpg"></td></tr>
+  <tr><td>
+    Lägg <b>en</b> droppe lim på plasten på undersidan och tryck fast elektronikdelen på bottenplattan som bilden visar.
+  </td><td><img src="Images/bild_saknas.jpg"></td></tr>
+
+  <tr><td>
+    **** BATTERIKONTAKTER ****
+  </td><td><img src="Images/bild_saknas.jpg"></td></tr>
+
+  <tr><td>
+    Koppla in båda servon på stiftkontakterna som sticker upp. Det bakre servot ska sitta närmast USB-kontakten och båda kontakterna ska ha gula sladden längst bort från kretskortet.
+  </td><td><img src="Images/bild_saknas.jpg"></td></tr>
+
+  <tr><td>
+    Nu ska vi rikta in styrningen.<br><br>
+    Sätt i batterierna, var noga med att koppla dem rätt. Enheten ska nu starta och det kan surra till i det främre servot. Ta ur batterierna igen. Servot är nu inställt rakt.
+  </td><td><img src="Images/bild_saknas.jpg"></td></tr>
+  
+ 
   <tr><td></td><td><img src="Images/20260704_113856.jpg" alt="20260704_113856.jpg"><div class="caption">20260704_113856.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_114104.jpg" alt="20260704_114104.jpg"><div class="caption">20260704_114104.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_114240.jpg" alt="20260704_114240.jpg"><div class="caption">20260704_114240.jpg</div></td></tr>
