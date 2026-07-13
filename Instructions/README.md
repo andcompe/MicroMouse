@@ -1,6 +1,17 @@
 
 <h1>Instruktioner MicroMouse</h1>
 
+Några tips innan du börjar
+<ul>
+<li>Plasten är tunn där den ska vikas. Kontrollera gärna 2 gånger åt vilket håll den ska vikas så det blir rätt från början. Viker du fram och tillbaka kommer den gå av.</li>
+<li>Limmet vi använder är cyanoakrylat, även kallat superlim eller snabblim.
+    <ul>
+      <li>Cyanoakrylat är i princip inte farligt, men kan vara jobbigt att få bort. Här är länk till <a href="https://giftinformation.se/kemikalieregister/cyanoakrylatlim/">Giftinformationcentralen</a>, läs den innan något händer. 
+      <li>Det fäster otroligt bra på plasten, men även på fingrar och en hel del annat. Använd bara LITE lim, det blir bara kladdigt med för mycket. Och man får det på fingrarna och sen fastnar fingrarna i plasten och du får kvar fula           fläckar. Så använd bara liiite lim.</li>
+      <li>Om du får lim på fingrarna, torka bort med papper så fort som möjligt. Det du inte får bort kommer torka fort och därefter är det enklast med mekanisk nötning för att få bort det. Sandpapper fungerar bra även till limmet på            fingrarna.</li>
+    </ul>  
+</ul>
+
 <table class="gallery" style="border: 0px">
   <tbody>
   
