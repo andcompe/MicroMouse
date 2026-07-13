@@ -4,13 +4,6 @@
 <table class="gallery" style="border: 0px">
   <tbody>
   
-  <tr><td></td><td><img src="Images/20260703_084615.jpg" alt="20260703_084615.jpg"><div class="caption">20260703_084615.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260703_084704.jpg" alt="20260703_084704.jpg"><div class="caption">20260703_084704.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260703_084740.jpg" alt="20260703_084740.jpg"><div class="caption">20260703_084740.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260703_085001.jpg" alt="20260703_085001.jpg"><div class="caption">20260703_085001.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260703_085409.jpg" alt="20260703_085409.jpg"><div class="caption">20260703_085409.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260703_090317.jpg" alt="20260703_090317.jpg"><div class="caption">20260703_090317.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260703_090840.jpg" alt="20260703_090840.jpg"><div class="caption">20260703_090840.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_103326.jpg" alt="20260704_103326.jpg"><div class="caption">20260704_103326.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_103550.jpg" alt="20260704_103550.jpg"><div class="caption">20260704_103550.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_103738.jpg" alt="20260704_103738.jpg"><div class="caption">20260704_103738.jpg</div></td></tr>
@@ -78,9 +71,7 @@
   <tr><td></td><td><img src="Images/20260704_114309.jpg" alt="20260704_114309.jpg"><div class="caption">20260704_114309.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_114322.jpg" alt="20260704_114322.jpg"><div class="caption">20260704_114322.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_114340.jpg" alt="20260704_114340.jpg"><div class="caption">20260704_114340.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_211118.jpg" alt="20260704_211118.jpg"><div class="caption">20260704_211118.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_211757.jpg" alt="20260704_211757.jpg"><div class="caption">20260704_211757.jpg</div></td></tr>
-
+  <tr><td></td><td><img src="Images/20260703_090840.jpg" alt="20260703_090840.jpg"><div class="caption">20260703_090840.jpg</div></td></tr>
   </tbody>
 </table>
 
