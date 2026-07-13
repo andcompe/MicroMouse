@@ -39,15 +39,35 @@ Några tips innan du börjar
     Vik slutligen upp runt mittenrutan så att delarna möts. Justera så det stämmer bra inför limmningen.
   </td><td><img src="Images/20260704_104124.jpg" alt="20260704_104124.jpg"><div class="caption">20260704_104124.jpg</div></td></tr>
   
-  <tr><td></td><td><img src="Images/20260704_104204.jpg" alt="20260704_104204.jpg"><div class="caption">20260704_104204.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_104329.jpg" alt="20260704_104329.jpg"><div class="caption">20260704_104329.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_104909.jpg" alt="20260704_104909.jpg"><div class="caption">20260704_104909.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_105038.jpg" alt="20260704_105038.jpg"><div class="caption">20260704_105038.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_105040.jpg" alt="20260704_105040.jpg"><div class="caption">20260704_105040.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_105341.jpg" alt="20260704_105341.jpg"><div class="caption">20260704_105341.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_105401.jpg" alt="20260704_105401.jpg"><div class="caption">20260704_105401.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_105412.jpg" alt="20260704_105412.jpg"><div class="caption">20260704_105412.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_105638.jpg" alt="20260704_105638.jpg"><div class="caption">20260704_105638.jpg</div></td></tr>
+  <tr><td>
+      Applicera lim på de tunna limytorna först. EN i taget. Håll därefter ihop bitarna i ca 15-30 sek så bör de ha fastnat tillräckligt. Om det inte har gjort det, tryck ihop och håll lite till.
+      På denna bild är det <i>för mycket</i> lim!
+  </td><td><img src="Images/20260704_104204.jpg" alt="20260704_104204.jpg"><div class="caption">20260704_104204.jpg</div></td></tr>
+  
+  <tr><td>
+      Fortsätt runt med alla 4 limytorna. På denna bild är det mer lagom med lim.    
+  </td><td><img src="Images/20260704_104329.jpg" alt="20260704_104329.jpg"><div class="caption">20260704_104329.jpg</div></td></tr>
+
+ 
+  <tr><td>
+      När alla 4 kanterna sitter ihop så ska den lilla limfliken i underkant limmas. Vik iordning så den ligger på rätt sida som bilden visar. Försök få det så tätt och fint som möjligt. 
+  </td><td><img src="Images/20260704_104909.jpg" alt="20260704_104909.jpg"><div class="caption">20260704_104909.jpg</div></td></tr>
+  
+  <tr><td>
+      Det kan var trångt att komma åt, men man kan applicera lim med en tandpetare. En liten droppe räcker. Gör detta i alla 4 hörnen.
+  </td><td><img src="Images/20260704_105038.jpg" alt="20260704_105038.jpg"><div class="caption">20260704_105038.jpg</div></td></tr>
+  
+  <tr><td>
+      Locket är nu klart och bör se ut ungefär så här.    
+  </td><td><img src="Images/20260704_105341.jpg" alt="20260704_105341.jpg"><div class="caption">20260704_105341.jpg</div></td></tr>
+  
+  <tr><td>
+      Nu ska vi bygga bottenplattan med all elektronik, hjul m.m. Börja med själva bottenplattan. Placera den på bordet med matta sidan upp, som bilden visar. 
+  </td><td><img src="Images/20260704_105412.jpg" alt="20260704_105412.jpg"><div class="caption">20260704_105412.jpg</div></td></tr>
+  
+  <tr><td>
+      Vik upp ytterkanterna 90 grader i strecket. Här är plasten lite kraftigare och det kan vara svårt att vika. Ett tips är att börja i ena kanten och böja bara lite åt gången. Jobba med tummen fram och tillbaka tills hela kanten är uppvikt. Se upp så inte kanterna bryts.
+  </td><td><img src="Images/20260704_105638.jpg" alt="20260704_105638.jpg"><div class="caption">20260704_105638.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_105719.jpg" alt="20260704_105719.jpg"><div class="caption">20260704_105719.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_105733.jpg" alt="20260704_105733.jpg"><div class="caption">20260704_105733.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_105742.jpg" alt="20260704_105742.jpg"><div class="caption">20260704_105742.jpg</div></td></tr>
