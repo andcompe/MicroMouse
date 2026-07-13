@@ -258,13 +258,24 @@ Några tips innan du börjar
   
   <tr><td>
      Lyft lite försiktigt på ena fästet och använd en tandpetare för att pilla in en droppe lim under. Se till att inget lim hamnar inuti fästet, för då fastnar bottenplattan där. Tryck ihop försiktigt igen så fästet fastnar i locket.     <br>Upprepa med andra fästet.
-  </td><td><img src="Images/20260704_114240.jpg" alt="20260704_114240.jpg"><div class="caption">20260704_114240.jpg</div></td></tr>
+  </td><td><img src="Images/20260704_114240.jpg" alt="20260704_114240.jpg"><div class="caption">20260704_114240.jpg</div></td></tr>  
+
+  <tr><td>
+      Tag fram det sista fästet som ska sitta fram. Applicera en lite droppe lim som bilden visar.
+  </td><td><img src="Images/20260704_114322.jpg" alt="20260704_114322.jpg"><div class="caption">20260704_114322.jpg</div></td></tr>
   
-  <tr><td></td><td><img src="Images/20260704_114309.jpg" alt="20260704_114309.jpg"><div class="caption">20260704_114309.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_114322.jpg" alt="20260704_114322.jpg"><div class="caption">20260704_114322.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_114340.jpg" alt="20260704_114340.jpg"><div class="caption">20260704_114340.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_103550.jpg" alt="20260704_103550.jpg"><div class="caption">20260704_103550.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260703_090840.jpg" alt="20260703_090840.jpg"><div class="caption">20260703_090840.jpg</div></td></tr>
+  <tr><td>
+      Vänd fästet och montera som bilden visar. Försök få det centrerat, framför servot i styraxeln. Skjut det bakåt så långt det går, utan att pressa, så att den lilla kroken får bra tag om kanten på bottenplattan. Håll fast tills limmet fäst ordentligt.
+  </td><td><img src="Images/20260704_114340.jpg" alt="20260704_114340.jpg"><div class="caption">20260704_114340.jpg</div></td></tr>
+  
+  <tr><td>
+      Själva monteringen är nu klar. Ta loss locket genom att haka av främre fästet från kanten på bottenplattan och dra sedan locket bakåt och uppåt. 
+      Montera batterierna så att elektroniken startar. Dags för test.
+  </td><td><img src="Images/20260704_103550.jpg" alt="20260704_103550.jpg"><div class="caption">20260704_103550.jpg</div></td></tr>
+  
+  <tr><td>
+      
+  </td><td><img src="Images/bild_saknas.jpg"></td></tr>
   </tbody>
 </table>
 
