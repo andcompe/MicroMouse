@@ -68,17 +68,40 @@ Några tips innan du börjar
   <tr><td>
       Vik upp ytterkanterna 90 grader i strecket. Här är plasten lite kraftigare och det kan vara svårt att vika. Ett tips är att börja i ena kanten och böja bara lite åt gången. Jobba med tummen fram och tillbaka tills hela kanten är uppvikt. Se upp så inte kanterna bryts.
   </td><td><img src="Images/20260704_105638.jpg" alt="20260704_105638.jpg"><div class="caption">20260704_105638.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_105719.jpg" alt="20260704_105719.jpg"><div class="caption">20260704_105719.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_105733.jpg" alt="20260704_105733.jpg"><div class="caption">20260704_105733.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_105742.jpg" alt="20260704_105742.jpg"><div class="caption">20260704_105742.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_105843.jpg" alt="20260704_105843.jpg"><div class="caption">20260704_105843.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_105907.jpg" alt="20260704_105907.jpg"><div class="caption">20260704_105907.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_110104.jpg" alt="20260704_110104.jpg"><div class="caption">20260704_110104.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_110420.jpg" alt="20260704_110420.jpg"><div class="caption">20260704_110420.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_110445.jpg" alt="20260704_110445.jpg"><div class="caption">20260704_110445.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_110447.jpg" alt="20260704_110447.jpg"><div class="caption">20260704_110447.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_110604.jpg" alt="20260704_110604.jpg"><div class="caption">20260704_110604.jpg</div></td></tr>
-  <tr><td></td><td><img src="Images/20260704_110738.jpg" alt="20260704_110738.jpg"><div class="caption">20260704_110738.jpg</div></td></tr>
+  
+  <tr><td>
+      Vänd på bottenplattan och ta fram delarna på bilden. Vi ska bygga ihop bakaxeln. 
+  </td><td><img src="Images/20260704_105719.jpg" alt="20260704_105719.jpg"><div class="caption">20260704_105719.jpg</div></td></tr>
+  
+  <tr><td>
+      Den runda axeln ska gå igenom hålen på den platta biten. Prova att de går igenom lätt innan du börjar vika. Den ska helst glida lätt i hålen, men inte glappa för mycket.<br>
+      Om den går trögt, använd sandpapper för att slipa ned den lite.
+  </td><td><img src="Images/20260704_105733.jpg" alt="20260704_105733.jpg"><div class="caption">20260704_105733.jpg</div></td></tr>
+  
+  <tr><td>
+      Vik ihop bakaxelfästet med matta sidan inåt. Försök vara noga så det blir 90 grader i alla hörn, för om den är sned kommer hjulen rulla dåligt. <br>
+      Där finns ett litet stöd som ska vara på utsidan och som andra änden ska limmas emot för att få rätt mått.<br>
+      Limma ihop biten.
+  </td><td><img src="Images/20260704_105907.jpg" alt="20260704_105907.jpg"><div class="caption">20260704_105907.jpg</div></td></tr>
+  
+  <tr><td>
+      Trä på kugghjulet på axeln från ena änden. Går det inte dit får du slipa lite mer på axeln med sandpapper så det går. <br>
+      Kugghjulet ska sitta ca 9 mm från änden. Det går att måtta om man lägger den på bottenplattan. Kugghjulet ska ligga mitt i det breda spåret och då ska det sticka ut lika mycket på vardera sida om de smala spåren.
+      Se bilden.<br>
+  </td><td><img src="Images/20260704_110447.jpg" alt="20260704_110447.jpg"><div class="caption">20260704_110447.jpg</div></td></tr>
+  
+  <tr><td>
+      När du fått dit kugghjulet kan du trä i axeln med kugghjulet i bakaxelfästet. Snurra på axeln så ser du om det sitter rakt. Det måste vara rakt. <br>
+      Om kugghjulet sitter löst måste det limmas fast. Det ska sitta fast i axeln, rakt och på rätt plats.
+  </td><td><img src="Images/20260704_110604.jpg" alt="20260704_110604.jpg"><div class="caption">20260704_110604.jpg</div></td></tr>
+
+  <tr><td>
+      När axeln fått kugghjul på plats och sitter i fästet så ska hjulen monteras. Placera hjulen med hålet uppåt och droppa lite lim i hålet. Använd gärna tandpetare. INTE för mycket lim, bara en liten droppe. Smeta gärna runt limmet lite i botten på hålet. <br><br>
+      Varning: Om du använder för mycket lim här kommer hjulet, axeln och axelfästet att limmas ihop och bakaxeln kan inte snurra. Då kan inte droiden åka. Ta hellre för lite lim än för mycket, då går det att göra om. <br><br>
+      Tryck sedan försiktigt i axeln mot hjulet och se till att det hamnar rakt. Lyft upp och snurra på hjulet. Det ska inte synas något kladdigt lim mellan axeln och axelfästet. Om det gör det, se om det går att torka bort med papper. Om inte, snurra på axeln hela tiden tills limmet har stelnat. <br><br>
+      Upprepa med andra hjulet så det blir som på bilden.
+  </td><td><img src="Images/20260704_110738.jpg" alt="20260704_110738.jpg"><div class="caption">20260704_110738.jpg</div></td></tr>
+  
   <tr><td></td><td><img src="Images/20260704_110913.jpg" alt="20260704_110913.jpg"><div class="caption">20260704_110913.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_110918.jpg" alt="20260704_110918.jpg"><div class="caption">20260704_110918.jpg</div></td></tr>
   <tr><td></td><td><img src="Images/20260704_110953.jpg" alt="20260704_110953.jpg"><div class="caption">20260704_110953.jpg</div></td></tr>
