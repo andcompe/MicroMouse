@@ -273,9 +273,6 @@ Några tips innan du börjar
     Sätt i batterierna, var noga med att koppla dem rätt. Minus mot fjädrarna. Enheten ska nu starta och det kan surra till i det främre servot. Ta ur batterierna igen. Servot är nu inställt rakt.
   </td><td><img src="Images/20260704_103550.jpg"></td></tr>
   
-
-
-
    <tr><td>
       Vänd droiden upp-och-ned. Tryck dit framaxeln på servot. <br>Var noga med att det är helt rakt, annars kommer den inte åka rakt. <br>Var noga med att inte vrida på servot när du monterar framaxeln. Om du gör det, sätt i batterierna igen så den vrider tillbaka sig och ta ur batterierna igen. På så sätt vet du att axeln blir rakt monterad.
       När den sitter rakt, skruva i skruven för att låsa servot.
@@ -307,7 +304,8 @@ Några tips innan du börjar
   </td><td><img src="Images/20260704_103550.jpg" alt="20260704_103550.jpg"><div class="caption">20260704_103550.jpg</div></td></tr>
   
   <tr><td>
-      Tag fram din telefon och skanna QR-koden för att ansluta till det Wifi som din droid skapar. Alternativt, sök efter Wifi och anslut manuellt till det som anges på lappen.<br>
+      Du har fått en lapp med QR-koder i din påse.
+      Tag din telefon och skanna den mittersta QR-koden för att ansluta till det Wifi som din droid skapar. Alternativt, sök efter Wifi och anslut manuellt till det namn som anges på lappen.<br>
       Om telefonen frågar ifall du vill ansluta UTAN Internet så är det korrekt och det vill du. Dessa droider är inte anslutna till Imperiets nätverk.
   </td><td><img src="Images/20260713_153146.jpg" alt="20260713_153146.jpg"></td></tr>
   
