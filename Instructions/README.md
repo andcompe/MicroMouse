@@ -225,107 +225,54 @@ Några tips innan du börjar
       Innan vi kan fortsätta med styrningen måste vi rikta upp styrservot så det pekar rätt. För det behöver vi koppla in elektroniken.
       <br><br>
       Ta fram elektronikdelen. Denna ska monteras i mitten på bottenplattan och har två styrpinnar där den ska vara.
-  </td><td><img src="Images/bild_saknas.jpg"></td></tr>
-  <tr><td>
-    Lägg <b>en</b> droppe lim på plasten på undersidan och tryck fast elektronikdelen på bottenplattan som bilden visar.
-  </td><td><img src="Images/bild_saknas.jpg"></td></tr>
-
-  <tr><td>
-    **** BATTERIKONTAKTER ****
-  </td><td><img src="Images/bild_saknas.jpg"></td></tr>
-
-  <tr><td>
-    Koppla in båda servon på stiftkontakterna som sticker upp. Det bakre servot ska sitta närmast USB-kontakten och båda kontakterna ska ha gula sladden längst bort från kretskortet.
-  </td><td><img src="Images/bild_saknas.jpg"></td></tr>
-
-  <tr><td>
-    Nu ska vi rikta in styrningen.<br><br>
-    Sätt i batterierna, var noga med att koppla dem rätt. Enheten ska nu starta och det kan surra till i det främre servot. Ta ur batterierna igen. Servot är nu inställt rakt.
-  </td><td><img src="Images/bild_saknas.jpg"></td></tr>
-  
-
-  <tr><td>
-    
   </td><td><img src="Images/20260715_181019.jpg"></td></tr>
 
   <tr><td>
-    
-  </td><td><img src="Images/20260715_181305.jpg"></td></tr>
+    Lägg <b>en</b> droppe lim på plasten på undersidan och tryck fast elektronikdelen på bottenplattan som bilden visar.
+   </td><td><img src="Images/20260715_181500.jpg"></td></tr>
 
   <tr><td>
-    
+  Det går ut två sladdar från elektronikdelen och dessa ska till batterikontakterna framtill. Sladdarna är olika långa. Den längsta ska sitta på vänstra sidan, markerat med plus. Batterikontakten   har endast en upphöjning, som bilden visar. Notera att på bilden är det en röd och en svart sladd, medan ni har endast vita. Det är dock batterikontakten och längden på sladden som visar vilken   som är vilken.<br>
+  Ev kan man behöva trycka med en tång ifall inte batterikontakten går ned lätt.
   </td><td><img src="Images/20260715_181314.jpg"></td></tr>
 
-  <tr><td>
-    
-  </td><td><img src="Images/20260715_181332.jpg"></td></tr>
 
   <tr><td>
-    
-  </td><td><img src="Images/20260715_181500.jpg"></td></tr>
-
-  <tr><td>
-    
+    Montera nu även andra batterikontakten till höger framtill. Denna har en fjäder och ska sitta på platsen markerad med minus. 
   </td><td><img src="Images/20260715_181557.jpg"></td></tr>
-
-  <tr><td>
-    
+  
+ <tr><td>
+    Montera den lösa sladden baktill. Dessa är inte markerade, men fjädern ska sitta på samma sida som plus. Se bilden. <br>
   </td><td><img src="Images/20260715_181638.jpg"></td></tr>
 
-  <tr><td>
-    
+ <tr><td>
+    Vik sedan ned de uppstickande flikarna på batterikontakterna. Baktill, akta så sladden inte hamnar för nära kugghjulet. I värsta fall går det att limma fast sladden, men det ska inte behövas.
   </td><td><img src="Images/20260715_181753.jpg"></td></tr>
 
   <tr><td>
-    
-  </td><td><img src="Images/20260715_181949.jpg"></td></tr>
-
-  <tr><td>
-    
+    Koppla in båda servon på stiftkontakterna som sticker upp. Det bakre servot ska sitta närmast USB-kontakten och båda kontakterna ska ha gula sladden mot framänden, dvs vänd bort ifrån   kretskortet.
   </td><td><img src="Images/20260715_181952.jpg"></td></tr>
 
-  <tr><td>
-    
-  </td><td><img src="Images/20260715_181952.jpg"></td></tr>
 
   <tr><td>
-    
-  </td><td><img src="Images/20260715_181953.jpg"></td></tr>
-
-  <tr><td>
-    
+    Man kan samla ihop sladdarna till servona lite smidigt med en gummisnodd.
   </td><td><img src="Images/20260715_182037.jpg"></td></tr>
 
-  <tr><td>
-    
-  </td><td><img src="Images/20260715_182037.jpg"></td></tr>
 
   <tr><td>
-    
-  </td><td><img src="Images/20260715_182037.jpg"></td></tr>
-
-  <tr><td>
-    
-  </td><td><img src="Images/20260715_182045.jpg"></td></tr>
-
-  <tr><td>
-    
+    Prova nu att sätta i batterierna, en sida i taget. Om inte batterierna vill stanna nere utan hoppar upp i mitten så finns två byglar med. Dessa kan monteras precis framför bakre änden på    främre batteriet. Se bortre sidan på bilden, där är en bygel monterad. 
   </td><td><img src="Images/20260715_182320.jpg"></td></tr>
 
-  <tr><td>
-    
+ <tr><td>
+     Bygeln monteras enklast med ett batteri kvar.
+    Droppa en liten droppe på insidan, på vardera sida om bygeln. Placera den över batterikontakten på rätt ställe och kläm till. Tryck inte ned den för hårt över batteriet, då går det inte att få loss det.
   </td><td><img src="Images/20260715_182400.jpg"></td></tr>
 
-
-
-
-
-
-
-
-
-
-
+  <tr><td>
+    Nu ska vi rikta in styrningen.<br><br>
+    Sätt i batterierna, var noga med att koppla dem rätt. Minus mot fjädrarna. Enheten ska nu starta och det kan surra till i det främre servot. Ta ur batterierna igen. Servot är nu inställt rakt.
+  </td><td><img src="Images/20260704_103550.jpg"></td></tr>
+  
 
 
 
