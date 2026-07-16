@@ -243,8 +243,93 @@ Några tips innan du börjar
     Sätt i batterierna, var noga med att koppla dem rätt. Enheten ska nu starta och det kan surra till i det främre servot. Ta ur batterierna igen. Servot är nu inställt rakt.
   </td><td><img src="Images/bild_saknas.jpg"></td></tr>
   
- 
+
   <tr><td>
+    
+  </td><td><img src="Images/20260715_181019.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_181305.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_181314.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_181332.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_181500.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_181557.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_181638.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_181753.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_181949.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_181952.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_181952.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_181953.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_182037.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_182037.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_182037.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_182045.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_182320.jpg"></td></tr>
+
+  <tr><td>
+    
+  </td><td><img src="Images/20260715_182400.jpg"></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <tr><td>
       Vänd droiden upp-och-ned. Tryck dit framaxeln på servot. <br>Var noga med att det är helt rakt, annars kommer den inte åka rakt. <br>Var noga med att inte vrida på servot när du monterar framaxeln. Om du gör det, sätt i batterierna igen så den vrider tillbaka sig och ta ur batterierna igen. På så sätt vet du att axeln blir rakt monterad.
       När den sitter rakt, skruva i skruven för att låsa servot.
   </td><td><img src="Images/20260704_113855.jpg"></td></tr>
